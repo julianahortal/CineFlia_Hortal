@@ -1,0 +1,218 @@
+*{
+    margin:0px;
+    padding: 0px;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    color: #555;
+    text-decoration: none;
+}
+
+p{
+    color: #555;   
+}
+/*-----------|MENÚ|-----------*/
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+nav{
+    flex: 1;
+    text-align: right;
+
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+
+.container{
+    max-width: 1500px;
+    margin:auto;
+    padding: 0px 10px;
+}
+.row-a{
+    display: flex;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    align-content: stretch;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+.col-12 h1{
+    text-align: center;
+}
+.col-12 p{
+    text-align: center;
+}
+
+/*-----------|MENÚ|-----------*/
+
+.cartelera {
+    justify-content: center;
+}
+
+.card{
+    width: 15rem;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.card a{
+    color: #555;
+    text-decoration: none;
+}
+
+#posters {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    justify-content:space-evenly;
+}
+#container-div-entradas{
+    display: block;
+    text-align: center;
+    flex-direction: column;
+    margin: 5em 5em 0em 5em;    
+}
+
+#container-div-entradas::before{
+    content:"";
+    padding:.5em;
+    margin-left:5px;
+    display:block;
+    
+}
+#container-div-entradas::after{
+    content:"";
+    padding:.5em;
+    margin-left:5px;
+    display:block;
+    
+}
+#container-div-entradas label{
+    display: inline-block;
+    margin-bottom: .5rem;
+}
+#cant-entradas {
+    margin-top: 2em;
+}
+#entradas h2{
+    text-align: center;
+}
+#confirmar-entradas{
+    padding:2em;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.card-body{
+    height: 4em;
+}
+.card-title{
+    font-size: .9rem;
+    
+}
+
+.card-body-1{
+    display: flex;
+    flex-direction: row;
+    overflow-x:auto;
+}
+.card-1{
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.btn-dark{
+    border-radius: 1px;
+}
+
+#tituloReciboCompra{
+    text-align: center;
+}
+.tag-anticipada{
+    background-color: black;
+    width: auto;
+}
+.movie-container {
+    margin-bottom: 1.5rem;
+    width: auto;    
+}
+.afiche-pelicula {
+    position: relative;
+    border-radius: 5px 5px 0 0;
+}
+
+.afiche-pelicula img {
+    border-radius: 5px 5px 0 0;
+    background-color: black;
+
+}
+.etiqueta-pelicula {
+    position: absolute;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 5px 5px 0 0;
+    text-transform: uppercase;
+    width: 50%;
+    height: auto;
+}
+.titulo-pelicula{
+    text-align: center;
+    margin-top: .7em;
+    width: auto;
+    
+}
+.titulo-pelicula h6{
+    font-weight: 700;
+    font-size:.8em;
+}
+
+
+.img-responsive{
+    width: auto;
+    height: 100%;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.row-b{
+    display: flex;
+    gap: 2em;
+    align-items: stretch;
+    text-align: center;
+    flex-direction: row;
+    
+
+}
+.animate-bottom {
+    position: relative;
+    -webkit-animation-name: animatebottom;
+    -webkit-animation-duration: 1s;
+    animation-name: animatebottom;
+    animation-duration: 1s
+  }
+  @-webkit-keyframes animatebottom {
+    from { bottom:-100px; opacity:0 } 
+    to { bottom:0px; opacity:1 }
+  }
+  
+  @keyframes animatebottom { 
+    from{ bottom:-100px; opacity:0 } 
+    to{ bottom:0; opacity:1 }
+  }
+

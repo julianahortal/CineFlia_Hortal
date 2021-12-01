@@ -1,0 +1,82 @@
+[
+    {
+        "titulo":"Cruella",
+        "duracion":"134 minutos",
+        "clasificacion":"SAM 13",
+        "genero" : "Comedia",
+        "imagenURL": "./img/cruella.jpg",
+        "descripcion" : "Ambientada en los años 70 en Londres y en medio de la revolución del punk rock, CRUELLA sigue a una joven estafadora llamada Estella, una chica inteligente y creativa decidida a hacerse un lugar en la moda con sus diseños de ropa. <br> Cuando se hace amiga de un par de jóvenes ladrones que aprecian su apetito por las travesuras, juntos logran construir una vida en las calles de Londres. <br>Un día, el talento de Estella llama la atención de La Baronesa von Hellman, la aterradoramente elegante y sofisticada leyenda de la moda. Pero su relación pone en marcha un curso de eventos y revelaciones que harán que Estella abrace su lado perverso y se convierta en la disonante, vanguardista y ávida de venganza Cruella.",
+        "dataTargetModal" : "cruella",
+        "btnEntradas": "btnCruella"
+    },
+    {
+        "titulo":"Space Jam: Una nueva era",
+        "duracion":"115 minutos",
+        "clasificacion":"ATP",
+        "genero" :"Animación",
+        "imagenURL":"./img/space.jpg",  
+        "descripcion" : "¡Bienvenido al partido del siglo! Cuando LeBron y su pequeño hijo Dom quedan atrapados en un espacio digital por una IA (inteligencia artificial) deshonesta, LeBron debe regresarlos a casa sanos y salvos guiado por Bugs, Lola Bunny y a toda la banda de indisciplinados Looney Tunes hacia la victoria sobre los campeones digitalizados de la IA en la cancha: una lista mejorada de estrellas profesionales del basquetbol como nunca antes lo habías visto. Son Tunes versus Goons en el desafío más importante de su vida, que redefinirá el vínculo de LeBron con su hijo y arrojará luz sobre el poder de ser uno mismo. Todos listos para la acción destruyen las convenciones, potencian sus talentos únicos y sorprenden incluso al 'Rey' James jugando basquetbol a su manera.",
+        "dataTargetModal" : "spaceJam", 
+        "btnEntradas": "btnSpaceJam"
+    },
+    {
+        "titulo":"El Conjuro 3: El diablo me obligó a hacerlo",
+        "duracion": "112 minutos",
+        "clasificacion":"SAM 13 C/R",
+        "genero" : "Terror",
+        "imagenURL": "./img/conjuro.jpg",
+        "descripcion" :"“El conjuro 3: El diablo me obligó a hacerlo” revela una escalofriante historia de terror, asesinato y un mal desconocido que impresionó incluso a los verdaderos expertos en investigación paranormal Ed y Lorraine Warren. Es uno de los casos más sensacionales de sus archivos; empieza con la lucha por el alma de un niño, los lleva más allá de lo que jamás habían visto y marca la primera vez en la historia de EE. UU. en que un sospechoso de asesinato alega posesión demoníaca como defensa.",
+        "dataTargetModal" : "elConjuro",
+        "btnEntradas": "btnConjuro" 
+    },
+    {
+        "titulo":"Black Widow",
+        "duracion":"133 minutos",
+        "clasificacion":"SAM 13",
+        "genero" : "Acción",
+        "imagenURL":"./img/widow.jpg",
+        "descripcion" :"En BLACK WIDOW, un thriller de espías lleno de acción, Natasha Romanoff, también conocida como Black Widow, se enfrenta a lo más oscuro de sus cuentas pendientes, cuando surge una peligrosa conspiración que tiene lazos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para derribarla, Natasha debe lidiar con su historia como espía y con las relaciones rotas que dejó a su paso mucho antes de convertirse en parte de los Vengadores.",
+        "dataTargetModal" : "blackWidow",
+        "btnEntradas": "btnWidow"   
+    },
+    {
+        "titulo":"Old: Viejos",
+        "duracion":"108 minutos",
+        "clasificacion":"SAM 13 C/R",
+        "genero" : "Drama",
+        "imagenURL":"./img/old.jpg",
+        "descripcion" :"Un escalofriante y misterioso thriller sobre una familia que, estando de vacaciones en un paraíso tropical, descubre que la playa apartada donde deciden relajarse por unas horas, de alguna manera los está haciendo envejecer rápidamente ... reduciendo toda su vida a un solo día.",
+        "dataTargetModal" : "old",
+        "btnEntradas": "btnOld"
+    },
+    {
+        "titulo":"Un Lugar en Silencio: Parte 2",
+        "duracion": "97 minutos",
+        "clasificacion":"SAM 13",
+        "genero" :"Thriller",
+        "imagenURL":"./img/silencio.jpg",
+        "descripcion" :"Después de los eventos mortales en casa, la familia Abbott ahora debe enfrentar los terrores del mundo exterior mientras continúan su lucha por la supervivencia en silencio. Forzados a aventurarse en lo desconocido, se dan cuenta rápidamente de que las criaturas que cazan por el sonido no son las únicas amenazas que acechan más allá del camino de arena.",
+        "dataTargetModal" : "silencio",
+        "btnEntradas": "btnSilencio"
+    },
+    {
+        "titulo":"Rápidos y Furiosos 9",
+        "duracion":"143 minutos",
+        "clasificacion":"SAM 13 C/R",
+        "genero" :"Acción",
+        "imagenURL":"./img/rapidos9.jpg",
+        "descripcion" :"Dom Toretto se encuentra viviendo una vida tranquila con Letty y su hijo, el pequeño Brian, pero sabe que el peligro siempre está acechando su pacífico horizonte. Esta vez, esa amenaza forzará a Dom a enfrentar los pecados de su pasado si quiere salvar a aquellos que más ama. Su equipo se une para detener un plan que puede acabar con el mundo, liderado por el mejor asesino y conductor que se hayan encontrado: un hombre que también es el hermano perdido de Dom, Jakob.<br> En el camino, viejos amigos volverán a la vida, viejos enemigos regresarán, la historia será escrita y el verdadero significado de la familia será puesto a prueba como nunca antes.",
+        "dataTargetModal" : "rapidos", 
+        "btnEntradas": "btnRapidos"
+    },
+    {
+        "titulo":"Halloween kills: la noche aún no termina",
+        "duracion":"106 minutos",
+        "clasificacion":"SAM 16",
+        "genero" :"Terror",
+        "imagenURL":"./img/halloween.jpg",
+        "descripcion" :"La noche de Halloween con Michael Myers de regreso aún no termina. Minutos después de que Laurie Strode (Curtis), su hija Karen (Judy Greer) y su nieta Allyson (Andi Matichak) dejaran al despiadado asesino enmascarado de Michael Myers encerrado y ardiendo en el sótano de la protagonista, Laurie es llevada de urgencia al hospital con heridas que ponen en peligro su vida, creyendo haber acabado por fin con quien ha convertido su vida en un infierno. Pero cuando Michael consigue liberarse de la trampa de Laurie, retoma su ritual de baño de sangre. Mientras Laurie lucha contra su dolor y se prepara para defenderse de él, Laurie inspira a toda la población de Haddonfield a rebelarse contra su imparable monstruo. Las Strode se unen a un grupo de otros supervivientes de la primera masacre de Michael quienes deciden a hacer justicia por su propia mano y forman una patrulla ciudadana con el objetivo de cazar a Michael de una vez por todas. El mal morirá esta noche.",
+        "dataTargetModal" : "halloween", 
+        "btnEntradas": "btnHalloween"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "titulo":"Eternals",
+        "duracion":"157 minutos",
+        "clasificacion":"SAM 13",
+        "genero" : "Acción",
+        "imagenURL": "./img/eternals.jpg",
+        "descripcion" : "ETERNALS de Marvel Studios presenta a un nuevo e increíble equipo de Súper Héroes que han vivido en secreto en la Tierra durante años para proteger y formar a las civilizaciones. Una tragedia inesperada los obliga a salir de las sombras para reunirse y enfrentarse al enemigo más antiguo del hombre: las criaturas monstruosas llamadas Deviantes.",
+        "dataTargetModal" : "",
+        "btnEntradas":  ""
+    },
+    {
+        "titulo":"El último duelo",
+        "duracion":"152 minutos",
+        "clasificacion":"SAM 16",
+        "genero" : "Drama",
+        "imagenURL": "./img/duelo.jpg",
+        "descripcion" : "De 20th Century Studios y el visionario cineasta Ridley Scott llega EL ÚLTIMO DUELO, una apasionante historia de traición y venganza enmarcada en la brutalidad y opresión femenina de la Francia del siglo XIV. La historia épica, basada en hechos reales descritos en el libro The Last Duel: A True Story of Crime, Scandal, and Trial by Combat in Medieval France, es protagonizada por el ganador de un Óscar® Matt Damon y el dos veces nominado a los premios Óscar® Adam Driver que interpretan a dos lords en disputa, ambos de noble cuna, que deben resolver sus agravios en un duelo a muerte. La película, también protagonizada por la ganadora de un Emmy® Jodie Comer y el dos veces ganador de un Óscar® Ben Affleck, es dirigida por el cuatro veces nominado a los premios de la Academia® Ridley Scott a partir de un guion de la nominada a un Óscar® Nicole Holofcener, Ben Affleck y Matt Damon basado en el libro de Eric Jager. EL ÚLTIMO DUELO es producida por Ridley Scott, Kevin J. Walsh, Jennifer Fox, Nicole Holofcener con Kevin Halloran, Ben Affleck, Matt Damon, Drew Vinton y Madison Ainley que se desempeñan como productores ejecutivos.",
+        "dataTargetModal" :  "",
+        "btnEntradas":  ""
+    },
+    {
+        "titulo":"Duna",
+        "duracion":"156 minutos",
+        "clasificacion":"SAM 13",
+        "genero" : "Aventuras",
+        "imagenURL": "./img/dune.jpg",
+        "descripcion" : "Denis Villeneuve (“La llegada”, “Blade Runner 2049”), nominado a dos premios Oscar, dirige “Duna”, de Warner Bros. Pictures y Legendary Pictures, una adaptación a la pantalla grande del trascendental best sellerde Frank Herbert que lleva el mismo nombre.“Duna” es el viaje mítico y cargado de emociones de un héroe. Cuenta la historia de Paul Atreides, un joven brillante y talentoso nacido con un gran destino que trasciende su comprensión; él debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su pueblo. Las fuerzas malévolas estallanen un conflicto por el suministro del recurso más valioso que existe (un producto básico capaz deactivarel mayor potencial de la humanidad), que se encuentra exclusivamente en ese planeta. Sobrevivirán solo quienes puedan conquistar su miedo.",
+        "dataTargetModal" :  "",
+        "btnEntradas":  ""
+    },
+    {
+        "titulo":"Sin tiempo para morir",
+        "duracion":"163 minutos",
+        "clasificacion":"SAM 13 C/R",
+        "genero" : "Acción",
+        "imagenURL": "./img/bond.jpg",
+        "descripcion" : "Bond ha dejado el servicio activo y disfruta de una vida tranquila en Jamaica. Su paz es efímera cuando su viejo amigo Félix Leiter de la CIA aparece pidiendo ayuda. La misión de rescatar a un científico secuestrado resulta ser mucho más traicionera de lo esperado, llevando a Bond a la pista de un misterioso villano armado con nueva tecnología peligrosa.",
+        "dataTargetModal" :  "",
+        "btnEntradas":  ""
+    }
+    
+]

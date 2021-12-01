@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>CineFlia</title>
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+            <div class="logo">
+                <img src="./img/logo.png" width="125px">
+            </div>
+            <nav>
+                <ul>
+                    <li>Inicio</li>
+                    <li id="btnboletos">Tickets</li>
+                    <li>Contacto</li>
+                </ul>
+            </nav>
+        </div>
+        <div id="main">
+        </div>
+        <section id="boleteria" class="animate-bottom">
+            <div class="row-a">
+                <div class="col-12">
+                    <h1><strong>BOLETERÍA VIRTUAL</strong></h1>
+                    <p><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" class="bi bi-arrow-right-circle-fill" viewBox="0 0 16 16">
+                        <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0zM4.5 7.5a.5.5 0 0 0 0 1h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 1 0-.708.708L10.293 7.5H4.5z"/>
+                    </svg> Para comenzar con la compra de entradas, elija la película deseada: </p>
+                </div>            
+            </div>  
+            <div class="cartelera">
+                <div id="posters"></div>
+            </div>
+            <div id="containerEntradas">                        
+            </div>
+            <div id="modal" class="modal fade compra" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg">
+                    <div class="modal-content"> 
+                        <div class="modal-header">
+                            <h3 id="tituloReciboCompra"></h3> 
+                        </div>    
+                        <div class="modal-container">  
+                            <div class="modal-body">                                
+                                <strong><h6 id="detalleReciboCompra"></h6></strong>    
+                            </div>                                                           
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal" data-backdrop="static" data-keyboard="false">Cerrar</button>
+                        </div>    
+                        
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <footer class="footer">
+        <div class="nav">
+            <div class="container">
+                <hr>
+                <div class="col-xs-12 col-sm-8">
+                    <p>CineFLIA © 2021 Todos los derechos reservados</p>
+            </div>
+        </div>
+    </footer>          
+    <script src='./js/javascript.js' type="text/javascript"></script>  
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>
